@@ -17,3 +17,6 @@ TopOpt = "53a1e1a5-51bb-58a9-8a02-02056cc81109"
 TopOptMakie = "e9c7d871-bed6-4650-ae23-a24e464b8b55"
 VTKDataIO = "c6703add-1d23-52c6-9943-3ad88652b9b2"
 VTKDataTypes = "10d27dd1-1d0f-5a4c-b178-bd2d0045a217"
+
+[compat]
+GLFW = "3"
